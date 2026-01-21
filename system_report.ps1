@@ -7,7 +7,7 @@
 $failiNimi = "report.txt"
 
 # 1. KASUTAJA SISEND
-# Küsime kasutajalt nime ja korduste arvu
+# Küsime kasutaja nime ja korduste arvu
 $nimi = Read-Host "Palun sisesta oma nimi"
 $kordused = Read-Host "Mitu korda soovid tervitust kuvada? (Sisesta number)"
 
